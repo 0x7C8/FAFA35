@@ -1,2 +1,10 @@
-# FAFA35
-Termodynamik och atomfysik
+# FAFA35 ('19)
+
+## Labs (Matlab files)
+* [Kretsprocesser](/Kretsprocesser)
+* Fotoelektrisk effekt
+* Spektroskopi
+
+## Assignment
+* Coming soon
+
