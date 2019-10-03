@@ -22,8 +22,8 @@ P_15 = [2.85 10.9] + atm;  % bar
 T_15 = [73.0 57.3 42.2 37.8 ...
     -2.6 -1.4 6.0 12.8];  % C
 
-% * Intall CoolPrep (requires Python and pip):
-% * system([e,' -m pip install --user -U CoolProp'])
+% Intall CoolPrep (requires Python and pip):
+% [v,e] = pyversion; system([e,' -m pip install --user -U CoolProp'])
 
 % Using CoolPrep for phase diagram
 % P between 0.1 and 20 bar
