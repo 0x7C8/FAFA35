@@ -2,7 +2,7 @@
 
 ## Labs (Matlab files)
 * [Kretsprocesser](/Kretsprocesser)
-* [Fotoelektrisk effekt](/Fotoelektrisk_effekt)
+* [Fotoelektrisk effekt](/Fotoelektrisk%20effekt)
 * [Spektroskopi](/Spektroskopi)
 
 ## [Assignment](/Inl)
